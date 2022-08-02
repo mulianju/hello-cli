@@ -9,7 +9,7 @@ const {
   mkdirsSync
 } = require('./utils')
 
-const rootDir = '../../../..'
+const rootDir = '../../../../'
 
 const choices = [
   {
