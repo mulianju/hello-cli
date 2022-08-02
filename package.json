@@ -1,0 +1,24 @@
+{
+  "bin": {
+    "hello-cli": "bin/hello-cli.js"
+  },
+  "name": "hello-cli",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "chalk": "^4.0.0",
+    "commander": "^9.4.0",
+    "inquirer": "^8.0.0",
+    "shelljs": "^0.8.5"
+  },
+  "devDependencies": {
+    "plop": "^3.1.1"
+  }
+}
